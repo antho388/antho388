@@ -36,7 +36,7 @@ Je travaille sur une API qui sera disponible sur RapidAPI dès quel sera en phas
 * PHPMailer (PHP)
 
 ### Working on :computer:
-Je travaille sur une API qui sera disponible sur RapidAPI dès quel sera en phase de production.
+I am working on an API that will be available on RapidAPI as soon as it goes into production.
 
 ### Contact :email:
 [<img src="https://img.icons8.com/doodle/344/apple-mail.png" width="50"/>](mailto=admin@teamwap.fr)
