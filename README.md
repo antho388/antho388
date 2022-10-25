@@ -16,7 +16,7 @@
 Je travaille sur une API qui sera disponible sur RapidAPI dès quel sera en phase de production.
 
 ### Contact :email:
-[<img src="https://img.icons8.com/doodle/344/apple-mail.png" width="50"/>](mailto=admin@teamwap.fr)
+[<img src="https://img.icons8.com/doodle/344/apple-mail.png" width="50"/>](mailto=anthonybariola@gmail.com)
 [<img src="https://img.icons8.com/doodle/344/twitter--v1.png" width="50"/>](https://twitter.com/bariola2)
 [<img src="https://img.icons8.com/doodle/344/linkedin--v2.png" width="50"/>](https://www.linkedin.com/in/anthony-bariola-1769b8201)
 
